@@ -18,7 +18,7 @@ To use this extension, you need to configure it in your application configuratio
 ```php
 //config/params.php
 'BigQuery' => [
-    'dataset' => 'ijeux_stage',
+    'dataset' => 'your_dataset',
 ],
 ```
 
