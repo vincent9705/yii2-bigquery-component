@@ -15,6 +15,13 @@ To use this extension, you need to configure it in your application configuratio
 ],
 ```
 
+```php
+//config/params.php
+'BigQuery' => [
+    'dataset' => 'ijeux_stage',
+],
+```
+
 ## Usage
 
 Here’s an example of how to use this extension:
